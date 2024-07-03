@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form{
+  display: inline-block;
+  background-color: rgb(252, 233, 211);
+  padding: 20px;
+  margin: 10px;
+  text-align: left;
+}
+form div{
+  margin: 15px;
+}
+form select{
+  width: 150px;
+}
+form label{
+  display: inline-block;
+  width: 100px;
+ 
+}
+table{
+  border-collapse:collapse ;
+  background-color:rgb(255, 238, 216);
+  border-radius: 10px;
+}
+table,th,td{
+border: 2px solid black;
+padding: 10px;
+}
+th{
+  color: rgb(255, 80, 167);
+}
